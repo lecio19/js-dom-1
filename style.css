@@ -1,0 +1,8 @@
+.image{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    background-image: url('../white_lamp.png');
+    background-size: contain;
+    margin: 2px;
+}
